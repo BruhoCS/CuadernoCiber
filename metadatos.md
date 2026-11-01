@@ -1,7 +1,4 @@
 # Metadatos
-
-Extracción y análisis de metadatos en documentos e imágenes (UD1.4 y UD1-5).
-
 ## Herramientas web
 
 - **Exif Viewer** — Visor de metadatos EXIF de imágenes online. <http://exif-viewer.com/>
