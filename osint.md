@@ -1,7 +1,4 @@
 # OSINT / Recopilación de información
-
-Búsqueda y correlación de información de fuentes abiertas (UD1.2 y prácticas UD1-2, UD1-3, UD1-5).
-
 ## Herramientas web
 
 ### Buscadores y Google Hacking (dorks)
