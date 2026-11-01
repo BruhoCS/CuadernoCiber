@@ -4,7 +4,7 @@ Representación visual de las relaciones entre entidades: dominios, IPs, correos
 
 ## Herramientas web
 
-- *(sin herramientas web específicas en este método)*
+- *Sin herramientas por el momento*
 
 ## Herramientas de terminal / escritorio
 
