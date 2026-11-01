@@ -1,7 +1,5 @@
 # Fundamentos y Pentesting
 
-Conceptos base, bases de datos de vulnerabilidades y entornos de trabajo (UD1.1).
-
 ## Herramientas web
 
 - **Exploit-DB** — Archivo público de exploits y PoC. <https://www.exploit-db.com/>
