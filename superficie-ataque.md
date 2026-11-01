@@ -1,4 +1,4 @@
-# Superficie de ataque (attack surface mapping)
+# Superficie de ataque
 ## Herramientas web
 
 - *Sin herramientas por el momento*
