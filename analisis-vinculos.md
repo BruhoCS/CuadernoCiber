@@ -1,4 +1,5 @@
 # Análisis de vínculos (link analysis)
+[⬅ Volver al inicio](README.md)
 ## Herramientas web
 
 - *Sin herramientas por el momento*
