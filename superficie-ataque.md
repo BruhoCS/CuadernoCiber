@@ -1,10 +1,7 @@
 # Superficie de ataque (attack surface mapping)
-
-Descubrimiento de activos externos de una organización: subdominios, IPs, ASN y rangos de red (UD1-6, Apartado 2).
-
 ## Herramientas web
 
-- *(sin herramientas web específicas en este método)*
+- *Sin herramientas por el momento*
 
 ## Herramientas de terminal / escritorio
 
