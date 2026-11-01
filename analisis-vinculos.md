@@ -1,7 +1,4 @@
 # Análisis de vínculos (link analysis)
-
-Representación visual de las relaciones entre entidades: dominios, IPs, correos, personas, documentos, metadatos… (UD1-6, Apartado 1).
-
 ## Herramientas web
 
 - *Sin herramientas por el momento*
