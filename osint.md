@@ -82,7 +82,7 @@
 - **SpiderFoot** — Framework de OSINT automatizado multi-fuente con interfaz web. <https://github.com/smicallef/spiderfoot>
 
 ### Todo en uno
--*Mr.Holmes* - <https://github.com/Lucksi/Mr.Holmes>
+- **Mr.Holmes** - <https://github.com/Lucksi/Mr.Holmes>
 ```bash
   git clone https://github.com/Lucksi/Mr.Holmes
   cd Mr.Holmes
