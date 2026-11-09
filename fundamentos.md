@@ -7,7 +7,7 @@
 - **CVE Details** — Buscador de vulnerabilidades (CVE) por producto y tipo. <https://www.cvedetails.com/>
 - **MITRE CVE** — Listado oficial de identificadores CVE. <https://cve.mitre.org/>
 - **OWASP** — Referencia en seguridad de aplicaciones (Top 10, guías). <https://owasp.org/>
-
+- **Kitploit** — Pagina con diferentes herramientas de pentesting. <https://kitploit.com/es>
 ## Herramientas de terminal / escritorio
 
 - **Kali Linux** — Distribución para pentesting con herramientas preinstaladas. <https://www.kali.org/>
