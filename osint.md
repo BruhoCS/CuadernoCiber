@@ -82,6 +82,7 @@
 - **SpiderFoot** — Framework de OSINT automatizado multi-fuente con interfaz web. <https://github.com/smicallef/spiderfoot>
 
 ### Todo en uno
+#### Instalación
 - **Mr.Holmes** - <https://github.com/Lucksi/Mr.Holmes>
 ```bash
   git clone https://github.com/Lucksi/Mr.Holmes
@@ -89,4 +90,13 @@
   sudo apt-get update
   sudo chmod +x install.sh
   sudo bash install.sh
+```
+#### Uso
+```bash
+cd Mr.Holmes
+sudo python3 MrHolmes.py
+OR:
+cd Mr.Holmes
+cd Launchers
+Execute Launcher.sh
 ```
